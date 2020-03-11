@@ -15,6 +15,7 @@ class App extends Component {
           <div className="wrapper">
             <ColorBox opacity={1} />
           </div>
+         
       </div>
     )
   }
